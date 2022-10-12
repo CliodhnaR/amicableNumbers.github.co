@@ -1,0 +1,25 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	font-family: Verdana;
+	font-size: 1.25em;
+}
+div{
+	padding: 25px;
+	text-align: center;
+}
+#content{
+	font-size: 1.5em;
+}
+#factors{
+	display:flex;
+	justify-content: center;
+}
+#factors1{
+	width: 50%;
+	border-style: solid;
+}
+#factors2{
+	width: 50%;
+	border-style: solid;
+}
